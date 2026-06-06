@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260605204940PEOI8O</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202606052049406G1FN7</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>“Viaje al corazón del cine”</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María del Carmen Gómez Tejada</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780260180075</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>28a538fb-cdb0-4106-83fb-316fa8cb4a1e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Portada/Inicio</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Portada/Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Portada/Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Portada/Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>28a538fb-cdb0-4106-83fb-316fa8cb4a1e</odePageId>
+      <odeBlockId>block-1780254042284-pe0k4qqqn</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>28a538fb-cdb0-4106-83fb-316fa8cb4a1e</odePageId>
+          <odeBlockId>block-1780254042284-pe0k4qqqn</odeBlockId>
+          <odeIdeviceId>idevice-1780254042280-jlu6bw4nm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Bienvenidos y bienvenidas a esta aventura cinematográfica. Durante cuatro sesiones exploraremos el mundo del cine, investigaremos una película, analizaremos sus elementos principales y crearemos una infografía digital en Canva para compartir lo aprendido.<br />Este espacio será vuestra guía: aquí encontraréis recursos, actividades, instrucciones y herramientas digitales para avanzar paso a paso.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780254042280-jlu6bw4nm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Bienvenidos y bienvenidas a esta aventura cinematográfica. Durante cuatro sesiones exploraremos el mundo del cine, investigaremos una película, analizaremos sus elementos principales y crearemos una infografía digital en Canva para compartir lo aprendido.<br />Este espacio será vuestra guía: aquí encontraréis recursos, actividades, instrucciones y herramientas digitales para avanzar paso a paso.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>28a538fb-cdb0-4106-83fb-316fa8cb4a1e</odePageId>
+      <odeBlockId>block-1780253473488-smdgxov8w</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>28a538fb-cdb0-4106-83fb-316fa8cb4a1e</odePageId>
+          <odeBlockId>block-1780253473488-smdgxov8w</odeBlockId>
+          <odeIdeviceId>idevice-1780253473483-wu5e41vct</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body">
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780253473483-wu5e41vct"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780253232092-dc3gamvaz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación del proyecto</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780253232092-dc3gamvaz</odePageId>
+      <odeBlockId>block-1780254150567-iv7nkig5g</odeBlockId>
+      <blockName>Proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780253232092-dc3gamvaz</odePageId>
+          <odeBlockId>block-1780254150567-iv7nkig5g</odeBlockId>
+          <odeIdeviceId>idevice-1780254150563-k0ltxpny3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este proyecto, titulado “Viaje al corazón del cine”, está dirigido al alumnado de 6.º de Primaria y tiene como objetivo acercarles al lenguaje cinematográfico mediante actividades de investigación, análisis y creación digital.</p>
+<p>A lo largo del proyecto aprenderás a:</p>
+<ul>
+<li>Identificar el género cinematográfico de una película.</li>
+<li>Analizar sus elementos principales: guion, dirección, banda sonora, reparto, producción.</li>
+<li>Organizar información de manera clara y visual.</li>
+<li>Crear una infografía digital en Canva.</li>
+<li>Trabajar en equipo de forma cooperativa.</li>
+<li>Utilizar las tecnologías digitales de manera responsable y segura.</li>
+</ul>
+<p style="text-align: justify;"><strong>Justificación: </strong> El cine ha sido, desde su aparición, uno de los medios de comunicación con mayor capacidad de influencia en nuestra vida cotidiana. Incorporar esta temática en la etapa de Educación Primaria permite trabajar un amplio abanico de competencias y destrezas esenciales para la formación integral del alumnado. Asimismo, potencia el pensamiento crítico, la reflexión personal y la creatividad de los niños y niñas.</p>
+<p style="text-align: justify;">A través de esta situación de aprendizaje, el alumnado de 6.º de Primaria tendrá la oportunidad de adentrarse en la evolución del cine, conocer sus principales géneros y comprender los elementos que lo conforman.</p>
+<p style="text-align: justify;">Esta propuesta didáctica se vincula directamente con el Objetivo de Desarrollo Sostenible nº 4, Educación de Calidad, ya que promueve el uso adecuado de las TIC, fomenta prácticas educativas responsables y acerca al alumnado a la relevancia cultural y social que el cine ha tenido a lo largo de la historia.</p>
+<p style="text-align: justify;"><strong>Producto final o reto:</strong> Los alumnos de 6º de Primaria crearán una infografía en Canva que resuma todo lo que se ha aprendido a lo largo de esta SdA, poniendo en práctica sus habilidades y competencias digitales. </p>
+<p style="text-align: justify;"><strong>Espacios y agrupamientos:</strong> Grupos cooperativos.</p>
+<p><strong>Competencias que se trabajarán:</strong> Competencia Lingüística (Lengua Castellana), Competencia Digital y Competencia personal, social y de aprender a aprender.</p>
+<p><strong>Idioma de trabajo:</strong> Castellano. No implicada la Competencia Plurilingüe.</p>
+<p><strong>Descripción general: </strong>A lo largo de las distintas sesiones, el alumnado llevará a cabo una investigación sobre una película elegida de manera consensuada dentro de sus grupos cooperativos. Durante este proceso, identificarán el género cinematográfico y los rasgos más representativos de la obra seleccionada. También analizarán los componentes fundamentales que intervienen en la creación de una película: guión, dirección, banda sonora, producción, reparto principal y secundario, entre otros.</p>
+<p>Se les introducirá en el uso de la plataforma Canva y se les mostrarán ejemplos de infografías para que comprendan su estructura y posibilidades. Con estas referencias, cada grupo elaborará su propia infografía utilizando la información recopilada y organizada previamente. Deberán incorporar imágenes y recursos visuales atractivos que capten la atención y motiven al resto de compañeros y compañeras a interesarse por la película presentada.</p>
+<p>Una vez finalizados los trabajos, cada grupo expondrá su infografía ante la clase, favoreciendo la retroalimentación constructiva y generando un espacio de intercambio de ideas y puntos de vista.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780254150563-k0ltxpny3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este proyecto, titulado “Viaje al corazón del cine”, está dirigido al alumnado de 6.º de Primaria y tiene como objetivo acercarles al lenguaje cinematográfico mediante actividades de investigación, análisis y creación digital.</p>\n<p>A lo largo del proyecto aprenderás a:</p>\n<ul>\n<li>Identificar el género cinematográfico de una película.</li>\n<li>Analizar sus elementos principales: guion, dirección, banda sonora, reparto, producción.</li>\n<li>Organizar información de manera clara y visual.</li>\n<li>Crear una infografía digital en Canva.</li>\n<li>Trabajar en equipo de forma cooperativa.</li>\n<li>Utilizar las tecnologías digitales de manera responsable y segura.</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>Justificación: </strong> El cine ha sido, desde su aparición, uno de los medios de comunicación con mayor capacidad de influencia en nuestra vida cotidiana. Incorporar esta temática en la etapa de Educación Primaria permite trabajar un amplio abanico de competencias y destrezas esenciales para la formación integral del alumnado. Asimismo, potencia el pensamiento crítico, la reflexión personal y la creatividad de los niños y niñas.</p>\n<p style=\"text-align: justify;\">A través de esta situación de aprendizaje, el alumnado de 6.º de Primaria tendrá la oportunidad de adentrarse en la evolución del cine, conocer sus principales géneros y comprender los elementos que lo conforman.</p>\n<p style=\"text-align: justify;\">Esta propuesta didáctica se vincula directamente con el Objetivo de Desarrollo Sostenible nº 4, Educación de Calidad, ya que promueve el uso adecuado de las TIC, fomenta prácticas educativas responsables y acerca al alumnado a la relevancia cultural y social que el cine ha tenido a lo largo de la historia.</p>\n<p style=\"text-align: justify;\"><strong>Producto final o reto:</strong> Los alumnos de 6º de Primaria crearán una infografía en Canva que resuma todo lo que se ha aprendido a lo largo de esta SdA, poniendo en práctica sus habilidades y competencias digitales. </p>\n<p style=\"text-align: justify;\"><strong>Espacios y agrupamientos:</strong> Grupos cooperativos.</p>\n<p><strong>Competencias que se trabajarán:</strong> Competencia Lingüística (Lengua Castellana), Competencia Digital y Competencia personal, social y de aprender a aprender.</p>\n<p><strong>Idioma de trabajo:</strong> Castellano. No implicada la Competencia Plurilingüe.</p>\n<p><strong>Descripción general: </strong>A lo largo de las distintas sesiones, el alumnado llevará a cabo una investigación sobre una película elegida de manera consensuada dentro de sus grupos cooperativos. Durante este proceso, identificarán el género cinematográfico y los rasgos más representativos de la obra seleccionada. También analizarán los componentes fundamentales que intervienen en la creación de una película: guión, dirección, banda sonora, producción, reparto principal y secundario, entre otros.</p>\n<p>Se les introducirá en el uso de la plataforma Canva y se les mostrarán ejemplos de infografías para que comprendan su estructura y posibilidades. Con estas referencias, cada grupo elaborará su propia infografía utilizando la información recopilada y organizada previamente. Deberán incorporar imágenes y recursos visuales atractivos que capten la atención y motiven al resto de compañeros y compañeras a interesarse por la película presentada.</p>\n<p>Una vez finalizados los trabajos, cada grupo expondrá su infografía ante la clase, favoreciendo la retroalimentación constructiva y generando un espacio de intercambio de ideas y puntos de vista.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780254837992-5hpmzm0kc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Justificación didáctica</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Justificación didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780254837992-5hpmzm0kc</odePageId>
+      <odeBlockId>block-1780254856754-4pvqlpf35</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780254837992-5hpmzm0kc</odePageId>
+          <odeBlockId>block-1780254856754-4pvqlpf35</odeBlockId>
+          <odeIdeviceId>idevice-1780254856749-on5tvkm0r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El <strong>cine </strong>es uno de los medios de comunicación más influyentes y accesibles para el alumnado. Trabajar esta temática en Educación Primaria permite desarrollar competencias clave como la comunicación lingüística, la competencia digital y la competencia personal y social. Además, <strong>favorece </strong>el pensamiento crítico, la creatividad y la reflexión sobre los mensajes audiovisuales que consumen diariamente.</p>
+<p>Esta SdA se vincula con el<strong> ODS 4:</strong> Educación de Calidad, ya que promueve el uso adecuado de las TIC, fomenta prácticas educativas responsables y acerca al alumnado a la relevancia cultural y social del cine.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780254856749-on5tvkm0r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El <strong>cine </strong>es uno de los medios de comunicación más influyentes y accesibles para el alumnado. Trabajar esta temática en Educación Primaria permite desarrollar competencias clave como la comunicación lingüística, la competencia digital y la competencia personal y social. Además, <strong>favorece </strong>el pensamiento crítico, la creatividad y la reflexión sobre los mensajes audiovisuales que consumen diariamente.</p>\n<p>Esta SdA se vincula con el<strong> ODS 4:</strong> Educación de Calidad, ya que promueve el uso adecuado de las TIC, fomenta prácticas educativas responsables y acerca al alumnado a la relevancia cultural y social del cine.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780253249659-em3ezq8fs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos y derechos digitales</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780253249659-em3ezq8fs</odePageId>
+      <odeBlockId>block-1780254916244-p7boqujxw</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780253249659-em3ezq8fs</odePageId>
+          <odeBlockId>block-1780254916244-p7boqujxw</odeBlockId>
+          <odeIdeviceId>idevice-1780254916240-ahsx305wg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Antes de comenzar, <strong>recordamos </strong>algunas <em><strong>normas importantes</strong></em>:</p>
+<ul>
+<li>No compartiremos imágenes ni datos personales fuera del entorno escolar.</li>
+<li>Usaremos Canva y otros recursos digitales de forma segura y responsable.</li>
+<li>Todas las imágenes utilizadas en la infografía deberán tener licencia libre o permiso de uso.</li>
+<li>Respetaremos la identidad digital propia y ajena.</li>
+<li>Navegaremos por internet siguiendo las indicaciones del docente.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780254916240-ahsx305wg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Antes de comenzar, <strong>recordamos </strong>algunas <em><strong>normas importantes</strong></em>:</p>\n<ul>\n<li>No compartiremos imágenes ni datos personales fuera del entorno escolar.</li>\n<li>Usaremos Canva y otros recursos digitales de forma segura y responsable.</li>\n<li>Todas las imágenes utilizadas en la infografía deberán tener licencia libre o permiso de uso.</li>\n<li>Respetaremos la identidad digital propia y ajena.</li>\n<li>Navegaremos por internet siguiendo las indicaciones del docente.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780253249659-em3ezq8fs</odePageId>
+      <odeBlockId>block-1780254968435-hsjpc7hkw</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780253249659-em3ezq8fs</odePageId>
+          <odeBlockId>block-1780254968435-hsjpc7hkw</odeBlockId>
+          <odeIdeviceId>idevice-1780254968433-uz8bdjnqm</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780254968433-uz8bdjnqm" title="" href="{{context_path}}/content/resources/_Infografía Tecnología Seguridad Informática Software Ordenador Ilustrado Azul.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/_Infografía Tecnología Seguridad Informática Software Ordenador Ilustrado Azul.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780254968433-uz8bdjnqm","img_0":{"img":"{{context_path}}/content/resources/_Infografía Tecnología Seguridad Informática Software Ordenador Ilustrado Azul.png","thumbnail":"{{context_path}}/content/resources/_Infografía Tecnología Seguridad Informática Software Ordenador Ilustrado Azul.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780253264420-umcidso0p</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del producto final: Infografía en Canva</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final: Infografía en Canva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descripción del producto final: Infografía en Canva</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780253264420-umcidso0p</odePageId>
+      <odeBlockId>block-1780255153275-5yj40puun</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780253264420-umcidso0p</odePageId>
+          <odeBlockId>block-1780255153275-5yj40puun</odeBlockId>
+          <odeIdeviceId>idevice-1780255153270-xbzzeu4ts</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El <strong>producto final</strong> de esta SdA será una<em><strong> infografía digital</strong></em>, creada en Canva, que resuma la investigación realizada sobre una película elegida por cada grupo.</p>
+<p>La infografía deberá incluir:</p>
+<ul>
+<li>Título de la película</li>
+<li>Género cinematográfico</li>
+<li>Sinopsis breve</li>
+<li>Personajes principales</li>
+<li>Elementos técnicos (dirección, guion, banda sonora…)</li>
+<li>Imágenes libres de derechos</li>
+<li>Diseño visual atractivo y organizado</li>
+<li>Cada grupo expondrá su infografía al resto de la clase.</li>
+<li>Elaboración de un guion sencillo, grabación de escenas con tablet y edición básica del vídeo.</li>
+<li>Proyección de los cortos y votación mediante formulario digital en distintas categorías.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780255153270-xbzzeu4ts","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El <strong>producto final</strong> de esta SdA será una<em><strong> infografía digital</strong></em>, creada en Canva, que resuma la investigación realizada sobre una película elegida por cada grupo.</p>\n<p>La infografía deberá incluir:</p>\n<ul>\n<li>Título de la película</li>\n<li>Género cinematográfico</li>\n<li>Sinopsis breve</li>\n<li>Personajes principales</li>\n<li>Elementos técnicos (dirección, guion, banda sonora…)</li>\n<li>Imágenes libres de derechos</li>\n<li>Diseño visual atractivo y organizado</li>\n<li>Cada grupo expondrá su infografía al resto de la clase.</li>\n<li>Elaboración de un guion sencillo, grabación de escenas con tablet y edición básica del vídeo.</li>\n<li>Proyección de los cortos y votación mediante formulario digital en distintas categorías.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780253264420-umcidso0p</odePageId>
+      <odeBlockId>block-1780255203070-ip5gu16w1</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780253264420-umcidso0p</odePageId>
+          <odeBlockId>block-1780255203070-ip5gu16w1</odeBlockId>
+          <odeIdeviceId>idevice-1780255203067-tkcfbg34i</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780255203067-tkcfbg34i" title="" href="{{context_path}}/content/resources/Brainstorming Esquema Visual Proceso Línea de Tiempo Ilustrado Formas Abstractas Moderno Multicolor.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Brainstorming Esquema Visual Proceso Línea de Tiempo Ilustrado Formas Abstractas Moderno Multicolor.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780255203067-tkcfbg34i","img_0":{"img":"{{context_path}}/content/resources/Brainstorming Esquema Visual Proceso Línea de Tiempo Ilustrado Formas Abstractas Moderno Multicolor.png","thumbnail":"{{context_path}}/content/resources/Brainstorming Esquema Visual Proceso Línea de Tiempo Ilustrado Formas Abstractas Moderno Multicolor.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780253277964-fk75228ud</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos para el alumnado</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Curación de contenidos para el alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780253277964-fk75228ud</odePageId>
+      <odeBlockId>block-1780255507587-o3ege2m9z</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780253277964-fk75228ud</odePageId>
+          <odeBlockId>block-1780255507587-o3ege2m9z</odeBlockId>
+          <odeIdeviceId>idevice-1780255507583-tz247s9mn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta colección encontrarás vídeos, infografías y recursos que te ayudarán a investigar tu película y a diseñar tu infografía en Canva:</p>
+<p><a href="https://wakelet.com/wake/mHgPJXzO-q6Px9a9Fhdtr" title="Curación contenido alumnado">https://wakelet.com/wake/mHgPJXzO-q6Px9a9Fhdtr</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780255507583-tz247s9mn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta colección encontrarás vídeos, infografías y recursos que te ayudarán a investigar tu película y a diseñar tu infografía en Canva:</p>\n<p><a href=\"https://wakelet.com/wake/mHgPJXzO-q6Px9a9Fhdtr\" title=\"Curación contenido alumnado\">https://wakelet.com/wake/mHgPJXzO-q6Px9a9Fhdtr</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780253294421-gjirn55b5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos para el profesorado</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos para el profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Curación de contenidos para el profesorado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780253294421-gjirn55b5</odePageId>
+      <odeBlockId>block-1780255603394-h219y2hrp</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780253294421-gjirn55b5</odePageId>
+          <odeBlockId>block-1780255603394-h219y2hrp</odeBlockId>
+          <odeIdeviceId>idevice-1780255603389-8gwt2rf4a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta colección reúne recursos de apoyo para el profesorado: guías, artículos, vídeos y herramientas digitales relacionadas con el cine y la alfabetización audiovisual.</p>
+<p><a href="https://www.symbaloo.com/mix/viaje-al-corazon-del-cine" title="Curación contenido Profesorado">https://www.symbaloo.com/mix/viaje-al-corazon-del-cine</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780255603389-8gwt2rf4a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta colección reúne recursos de apoyo para el profesorado: guías, artículos, vídeos y herramientas digitales relacionadas con el cine y la alfabetización audiovisual.</p>\n<p><a href=\"https://www.symbaloo.com/mix/viaje-al-corazon-del-cine\" title=\"Curación contenido Profesorado\">https://www.symbaloo.com/mix/viaje-al-corazon-del-cine</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780253308982-aq7c0fump</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal del proyecto</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780253308982-aq7c0fump</odePageId>
+      <odeBlockId>block-1780255686723-730bmtq18</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780253308982-aq7c0fump</odePageId>
+          <odeBlockId>block-1780255686723-730bmtq18</odeBlockId>
+          <odeIdeviceId>idevice-1780255686719-7rlk2ce0n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Brainstorming Esquema Visual Proceso Línea de Tiempo Ilustrado Formas Abstractas Moderno Multicolor.png" width="1366" height="768" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780255686719-7rlk2ce0n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Brainstorming Esquema Visual Proceso Línea de Tiempo Ilustrado Formas Abstractas Moderno Multicolor.png\" width=\"1366\" height=\"768\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780253322525-6l6y6cd5y</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tareas y criterios de evaluación</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tareas y criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780253322525-6l6y6cd5y</odePageId>
+      <odeBlockId>block-1780255785555-0p8qi00u5</odeBlockId>
+      <blockName>Tareas y criterios</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780253322525-6l6y6cd5y</odePageId>
+          <odeBlockId>block-1780255785555-0p8qi00u5</odeBlockId>
+          <odeIdeviceId>idevice-1780255785553-o5odo43r5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p> Tareas y criterios</p>
+<table>
+<tbody>
+<tr>
+<td>
+<p><b>TAREA </b></p>
+</td>
+<td>
+<p><b>CRITERIO DE EVALUACIÓN</b></p>
+</td>
+<td>
+<p><b>AGRUPAMIENTO</b></p>
+</td>
+<td>
+<p><b>TIEMPO APROXIMADO</b></p>
+</td>
+<td>
+<p><b>HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Visualización de un vídeo sobre la historia del cine y realización de una ficha digital con preguntas básicas. </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">LC.L. CE1.1: Comprender información relevante en textos audiovisuales. </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">1 sesión (45 min). </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Individual</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">YouTube + Google Classroom (ficha digital). </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Visionado de tráilers aptos para Primaria y clasificación según su género en un mural colaborativo. </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">LCL. CE2.2: Identificar intención comunicativa y características de textos audiovisuales. </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">1 sesión (1 hora). </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Grupos de 3–4. </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Padlet</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Cada grupo elige un género cinematográfico y diseña una infografía con sus características principales. </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">LCL. CE3.1: Elaborar textos multimodales con coherencia y corrección. </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">2 sesiones. </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Grupos de 3–4. </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Canva</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Visionado de un fragmento de película y cumplimentación de una ficha digital: personajes, trama, emociones, música, mensaje. </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">LCL. CE1.2: Interpretar elementos explícitos e implícitos en textos audiovisuales. </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">1 Sesión</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Individual</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Formularios de Google o Genially interactivo. </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Elaboración de un guion sencillo, grabación de escenas con tablet y edición básica del vídeo. </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">E. A. CE4.1: Crear producciones audiovisuales sencillas aplicando técnicas básicas. </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">3–4 sesiones. </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Grupos de 4-5</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">iMovie/ CapCut educativo. </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Proyección de los cortos y votación mediante formulario digital en distintas categorías. </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">LCL. CE4.2: Expresar opiniones fundamentadas sobre producciones audiovisuales. </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">1 Sesión</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Gran grupo</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Google Forms. </span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><a href="https://canva.link/j4c7z3i4u9igtdl" title="tareas y criterios">https://canva.link/j4c7z3i4u9igtdl</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780255785553-o5odo43r5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p> Tareas y criterios</p>\n<table>\n<tbody>\n<tr>\n<td>\n<p><b>TAREA </b></p>\n</td>\n<td>\n<p><b>CRITERIO DE EVALUACIÓN</b></p>\n</td>\n<td>\n<p><b>AGRUPAMIENTO</b></p>\n</td>\n<td>\n<p><b>TIEMPO APROXIMADO</b></p>\n</td>\n<td>\n<p><b>HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</b></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-weight: 400;\">Visualización de un vídeo sobre la historia del cine y realización de una ficha digital con preguntas básicas. </span></p>\n</td>\n<td>\n<p><span style=\"font-weight: 400;\">LC.L. CE1.1: Comprender información relevante en textos audiovisuales. </span></p>\n</td>\n<td>\n<p><span style=\"font-weight: 400;\">1 sesión (45 min). </span></p>\n</td>\n<td>\n<p><span style=\"font-weight: 400;\">Individual</span></p>\n</td>\n<td>\n<p><span style=\"font-weight: 400;\">YouTube + Google Classroom (ficha digital). </span></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-weight: 400;\">Visionado de tráilers aptos para Primaria y clasificación según su género en un mural colaborativo. </span></p>\n</td>\n<td>\n<p><span style=\"font-weight: 400;\">LCL. CE2.2: Identificar intención comunicativa y características de textos audiovisuales. </span></p>\n</td>\n<td>\n<p><span style=\"font-weight: 400;\">1 sesión (1 hora). </span></p>\n</td>\n<td>\n<p><span style=\"font-weight: 400;\">Grupos de 3–4. </span></p>\n</td>\n<td>\n<p><span style=\"font-weight: 400;\">Padlet</span></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-weight: 400;\">Cada grupo elige un género cinematográfico y diseña una infografía con sus características principales. </span></p>\n</td>\n<td>\n<p><span style=\"font-weight: 400;\">LCL. CE3.1: Elaborar textos multimodales con coherencia y corrección. </span></p>\n</td>\n<td>\n<p><span style=\"font-weight: 400;\">2 sesiones. </span></p>\n</td>\n<td>\n<p><span style=\"font-weight: 400;\">Grupos de 3–4. </span></p>\n</td>\n<td>\n<p><span style=\"font-weight: 400;\">Canva</span></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-weight: 400;\">Visionado de un fragmento de película y cumplimentación de una ficha digital: personajes, trama, emociones, música, mensaje. </span></p>\n</td>\n<td>\n<p><span style=\"font-weight: 400;\">LCL. CE1.2: Interpretar elementos explícitos e implícitos en textos audiovisuales. </span></p>\n</td>\n<td>\n<p><span style=\"font-weight: 400;\">1 Sesión</span></p>\n</td>\n<td>\n<p><span style=\"font-weight: 400;\">Individual</span></p>\n</td>\n<td>\n<p><span style=\"font-weight: 400;\">Formularios de Google o Genially interactivo. </span></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-weight: 400;\">Elaboración de un guion sencillo, grabación de escenas con tablet y edición básica del vídeo. </span></p>\n</td>\n<td>\n<p><span style=\"font-weight: 400;\">E. A. CE4.1: Crear producciones audiovisuales sencillas aplicando técnicas básicas. </span></p>\n</td>\n<td>\n<p><span style=\"font-weight: 400;\">3–4 sesiones. </span></p>\n</td>\n<td>\n<p><span style=\"font-weight: 400;\">Grupos de 4-5</span></p>\n</td>\n<td>\n<p><span style=\"font-weight: 400;\">iMovie/ CapCut educativo. </span></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-weight: 400;\">Proyección de los cortos y votación mediante formulario digital en distintas categorías. </span></p>\n</td>\n<td>\n<p><span style=\"font-weight: 400;\">LCL. CE4.2: Expresar opiniones fundamentadas sobre producciones audiovisuales. </span></p>\n</td>\n<td>\n<p><span style=\"font-weight: 400;\">1 Sesión</span></p>\n</td>\n<td>\n<p><span style=\"font-weight: 400;\">Gran grupo</span></p>\n</td>\n<td>\n<p><span style=\"font-weight: 400;\">Google Forms. </span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><a href=\"https://canva.link/j4c7z3i4u9igtdl\" title=\"tareas y criterios\">https://canva.link/j4c7z3i4u9igtdl</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780253340224-m8igq6cb4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780253340224-m8igq6cb4</odePageId>
+      <odeBlockId>block-1780257236526-ae02iiuwo</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780253340224-m8igq6cb4</odePageId>
+          <odeBlockId>block-1780257236526-ae02iiuwo</odeBlockId>
+          <odeIdeviceId>idevice-1780257236522-n72awx4ji</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p> Durante el proyecto utilizaremos diferentes instrumentos de evaluación para valorar tu aprendizaje y ayudarte a mejorar:</p>
+<table border="1" style="width: 100.1%;">
+<tbody>
+<tr>
+<td width="529" style="width: 73.4048%;">
+<p><strong>Criterio: LCL. CE1.1 – Comprender información relevante en textos audiovisuales</strong></p>
+</td>
+<td colspan="2" width="161" style="width: 10.2291%;">
+<p> Si</p>
+</td>
+<td style="width: 10.8681%;">En proceso</td>
+<td style="width: 5.43739%;">no</td>
+</tr>
+<tr>
+<td width="529" style="width: 73.4048%;">
+<p><em>Comprensión de ideas principales</em> — Identifica correctamente la información esencial del vídeo.</p>
+</td>
+<td colspan="2" width="161" style="width: 10.2291%;">
+<p> </p>
+</td>
+<td style="width: 10.8681%;"><br /></td>
+<td style="width: 5.43739%;"><br /></td>
+</tr>
+<tr>
+<td width="529" style="width: 73.4048%;">
+<p><em>Identificación de detalles relevantes</em> — Responde adecuadamente a preguntas básicas (qué, quién, cuándo).</p>
+</td>
+<td colspan="2" width="161" style="width: 10.2291%;">
+<p> </p>
+</td>
+<td style="width: 10.8681%;"><br /></td>
+<td style="width: 5.43739%;"><br /></td>
+</tr>
+<tr>
+<td colspan="3" width="690" style="width: 83.6339%;">
+<p><strong>Criterio: LCL. CE2.2 – Identificar intención comunicativa y características del texto audiovisual</strong></p>
+</td>
+<td style="width: 10.8681%;"></td>
+<td style="width: 5.43739%;"></td>
+</tr>
+<tr>
+<td width="529" style="width: 73.4048%;">
+<p><em>Identificación del género</em> — Clasifica correctamente cada tráiler según su género.</p>
+</td>
+<td colspan="2" width="161" style="width: 10.2291%;">
+<p> </p>
+</td>
+<td style="width: 10.8681%;"><br /></td>
+<td style="width: 5.43739%;"><br /></td>
+</tr>
+<tr>
+<td width="529" style="width: 73.4048%;">
+<p><em>Uso responsable de herramientas digitales</em> — Usa la herramienta sin borrar ni modificar aportes ajenos.</p>
+</td>
+<td colspan="2" width="161" style="width: 10.2291%;">
+<p> </p>
+</td>
+<td style="width: 10.8681%;"><br /></td>
+<td style="width: 5.43739%;"><br /></td>
+</tr>
+<tr>
+<td colspan="3" width="690" style="width: 83.6339%;">
+<p><strong>Criterio: LCL. CE3.1 – Elaborar textos multimodales con coherencia y corrección</strong></p>
+</td>
+<td style="width: 10.8681%;"><br /></td>
+<td style="width: 5.43739%;"><br /></td>
+</tr>
+<tr>
+<td width="529" style="width: 73.4048%;">
+<p><em>Selección de información relevante</em> — Incluye características esenciales del género.</p>
+</td>
+<td colspan="2" width="161" style="width: 10.2291%;">
+<p> </p>
+</td>
+<td style="width: 10.8681%;"><br /></td>
+<td style="width: 5.43739%;"><br /></td>
+</tr>
+<tr>
+<td width="529" style="width: 73.4048%;">
+<p><em>Organización clara de la infografía</em> — Presenta la información de forma ordenada y comprensible.</p>
+</td>
+<td colspan="2" width="161" style="width: 10.2291%;">
+<p> </p>
+</td>
+<td style="width: 10.8681%;"><br /></td>
+<td style="width: 5.43739%;"><br /></td>
+</tr>
+<tr>
+<td width="529" style="width: 73.4048%;">
+<p><em>Corrección lingüística</em> — Ortografía y redacción adecuadas.</p>
+</td>
+<td colspan="2" width="161" style="width: 10.2291%;">
+<p> </p>
+</td>
+<td style="width: 10.8681%;"><br /></td>
+<td style="width: 5.43739%;"></td>
+</tr>
+<tr>
+<td width="529" style="width: 73.4048%;">
+<p><em>Integración de elementos visuales</em> — Usa imágenes, iconos o colores con sentido didáctico.</p>
+</td>
+<td colspan="2" width="161" style="width: 10.2291%;">
+<p> </p>
+</td>
+<td style="width: 10.8681%;"><br /></td>
+<td style="width: 5.43739%;"><br /></td>
+</tr>
+<tr>
+<td colspan="2" width="576" style="width: 73.4087%;">
+<p><strong>Criterio: LCL. CE1.2 – Interpretar elementos explícitos e implícitos</strong></p>
+</td>
+<td width="113" style="width: 10.2252%;">
+<p> </p>
+</td>
+<td style="width: 10.8681%;"><br /></td>
+<td style="width: 5.43739%;"><br /></td>
+</tr>
+<tr>
+<td width="529" style="width: 73.4048%;">
+<p><em>Identificación de personajes</em> — Reconoce protagonistas y secundarios.</p>
+</td>
+<td colspan="2" width="161" style="width: 10.2291%;">
+<p> </p>
+</td>
+<td style="width: 10.8681%;"><br /></td>
+<td style="width: 5.43739%;"><br /></td>
+</tr>
+<tr>
+<td width="529" style="width: 73.4048%;">
+<p><em>Comprensión de la trama</em> — Resume lo que ocurre en el fragmento.</p>
+</td>
+<td colspan="2" width="161" style="width: 10.2291%;">
+<p> </p>
+</td>
+<td style="width: 10.8681%;"><br /></td>
+<td style="width: 5.43739%;"><br /></td>
+</tr>
+<tr>
+<td width="529" style="width: 73.4048%;">
+<p><em>Análisis de música y ambiente</em> — Explica cómo contribuye al mensaje.</p>
+</td>
+<td colspan="2" width="161" style="width: 10.2291%;">
+<p> </p>
+</td>
+<td style="width: 10.8681%;"><br /></td>
+<td style="width: 5.43739%;"><br /></td>
+</tr>
+<tr>
+<td colspan="2" width="576" style="width: 73.4087%;">
+<p><strong>Criterio: E.A. CE4.1 – Crear producciones audiovisuales sencillas</strong></p>
+</td>
+<td width="113" style="width: 10.2252%;">
+<p> </p>
+</td>
+<td style="width: 10.8681%;"><br /></td>
+<td style="width: 5.43739%;"><br /></td>
+</tr>
+<tr>
+<td width="529" style="width: 73.4048%;">
+<p><em>Guion estructurado</em> — Incluye inicio, desarrollo y final.</p>
+</td>
+<td colspan="2" width="161" style="width: 10.2291%;">
+<p> </p>
+</td>
+<td style="width: 10.8681%;"><br /></td>
+<td style="width: 5.43739%;"><br /></td>
+</tr>
+<tr>
+<td width="529" style="width: 73.4048%;">
+<p><em>Coherencia entre escenas</em> — Las escenas siguen un orden lógico.</p>
+</td>
+<td colspan="2" width="161" style="width: 10.2291%;">
+<p> </p>
+</td>
+<td style="width: 10.8681%;"><br /></td>
+<td style="width: 5.43739%;"><br /></td>
+</tr>
+<tr>
+<td width="529" style="width: 73.4048%;">
+<p><em>Interpretación y expresión</em> — Los alumnos actúan con claridad y adecuación.</p>
+</td>
+<td colspan="2" width="161" style="width: 10.2291%;">
+<p> </p>
+</td>
+<td style="width: 10.8681%;"><br /></td>
+<td style="width: 5.43739%;"><br /></td>
+</tr>
+<tr>
+<td width="529" style="width: 73.4048%;">
+<p><em>Uso básico de la cámara</em> — Encuadres estables y sonido comprensible.</p>
+</td>
+<td colspan="2" width="161" style="width: 10.2291%;">
+<p> </p>
+</td>
+<td style="width: 10.8681%;"><br /></td>
+<td style="width: 5.43739%;"><br /></td>
+</tr>
+<tr>
+<td colspan="2" width="576" style="width: 73.4087%;">
+<p><strong>Criterio: LCL. CE4.2 – Expresar opiniones fundamentadas</strong></p>
+</td>
+<td width="113" style="width: 10.2252%;">
+<p> </p>
+</td>
+<td style="width: 10.8681%;"><br /></td>
+<td style="width: 5.43739%;"><br /></td>
+</tr>
+<tr>
+<td width="529" style="width: 73.4048%;">
+<p><em>Argumentación de la opinión</em> — Explica por qué le gusta o no un corto.</p>
+</td>
+<td colspan="2" width="161" style="width: 10.2291%;">
+<p> </p>
+</td>
+<td style="width: 10.8681%;"><br /></td>
+<td style="width: 5.43739%;"><br /></td>
+</tr>
+<tr>
+<td width="529" style="width: 73.4048%;">
+<p><em>Respeto en la valoración</em> — Acepta opiniones distintas sin burlas.</p>
+</td>
+<td colspan="2" width="161" style="width: 10.2291%;">
+<p> </p>
+</td>
+<td style="width: 10.8681%;"><br /></td>
+<td style="width: 5.43739%;"><br /></td>
+</tr>
+<tr>
+<td width="529" style="width: 73.4048%;">
+<p><em>Uso adecuado del formulario digital</em> — Completa la votación correctamente.</p>
+</td>
+<td colspan="2" width="161" style="width: 10.2291%;">
+<p> </p>
+</td>
+<td style="width: 10.8681%;"><br /></td>
+<td style="width: 5.43739%;"><br /></td>
+</tr>
+</tbody>
+</table>
+<p><br /><strong>Autoevaluación</strong></p>
+<p>Este instrumento permite evaluar tanto el proceso como el producto final, y te ayudará a reflexionar sobre tu propio trabajo.</p>
+<p><br /></p>
+<table border="1" style="width: 100.006%;">
+<tbody>
+<tr>
+<td width="425" style="width: 63.3394%;">
+<p><strong>“He entendido bien todas las fases para crear un cortometraje (guion, grabación, edición).</strong></p>
+</td>
+<td width="246" style="width: 36.6899%;">
+<p><strong>             1         2          3          4          5</strong></p>
+</td>
+</tr>
+<tr>
+<td width="425" style="width: 63.3394%;">
+<p><strong>“¿Qué parte del proceso te ha resultado más difícil y por qué?”</strong></p>
+</td>
+<td width="246" style="width: 36.6899%;">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td width="425" style="width: 63.3394%;">
+<p><strong>“Explica algo nuevo que hayas aprendido sobre el lenguaje cinematográfico.”</strong></p>
+</td>
+<td width="246" style="width: 36.6899%;">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td width="425" style="width: 63.3394%;">
+<p><strong>“He utilizado imágenes, música y recursos respetando la autoría y las normas del centro.”</strong></p>
+</td>
+<td width="246" style="width: 36.6899%;">
+<p>             1         2          3          4          5</p>
+</td>
+</tr>
+<tr>
+<td width="425" style="width: 63.3394%;">
+<p><strong>“Durante el proyecto he usado los dispositivos de forma…”</strong></p>
+</td>
+<td width="246" style="width: 36.6899%;">
+<p>-  Responsable</p>
+<p>- Adecuada pero mejorable</p>
+<p>- Poco responsable</p>
+<p>-  No lo sé / No estoy seguro</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td width="425" style="width: 63.3394%;">
+<p><strong>“He participado activamente en mi grupo y he cumplido mi rol.”</strong></p>
+</td>
+<td width="246" style="width: 36.6899%;">
+<p>             1         2          3          4          5</p>
+</td>
+</tr>
+<tr>
+<td width="425" style="width: 63.3394%;">
+<p><strong>“¿Qué ha funcionado bien en tu grupo y qué mejorarías para la próxima vez?”</strong></p>
+</td>
+<td width="246" style="width: 36.6899%;">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td width="425" style="width: 63.3394%;">
+<p><strong>“Estoy satisfecho/a con el resultado final del cortometraje.”</strong></p>
+</td>
+<td width="246" style="width: 36.6899%;">
+<p>             1         2          3          4          5</p>
+</td>
+</tr>
+<tr>
+<td width="425" style="width: 63.3394%;">
+<p><strong>“Si pudieras volver a editar el cortometraje, ¿qué cambiarías?”</strong></p>
+</td>
+<td width="246" style="width: 36.6899%;">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td width="425" style="width: 63.3394%;">
+<p><strong>“Siento que he mejorado mi competencia digital gracias a este proyecto.”</strong></p>
+</td>
+<td width="246" style="width: 36.6899%;">
+<p>             1         2          3          4          5</p>
+</td>
+</tr>
+<tr>
+<td width="425" style="width: 63.3394%;">
+<p><strong>“Resume en una frase qué te llevas de este proyecto.”</strong></p>
+</td>
+<td width="246" style="width: 36.6899%;">
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><a href="https://docs.google.com/document/d/1fnf7OOwYutK7e9gb8YPl7k9AhjmC43ezsaH9hM9iE7U/edit?usp=sharing" title="instrumentos de evaluación">https://docs.google.com/document/d/1fnf7OOwYutK7e9gb8YPl7k9AhjmC43ezsaH9hM9iE7U/edit?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780257236522-n72awx4ji","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p> Durante el proyecto utilizaremos diferentes instrumentos de evaluación para valorar tu aprendizaje y ayudarte a mejorar:</p>\n<table border=\"1\" style=\"width: 100.1%;\">\n<tbody>\n<tr>\n<td width=\"529\" style=\"width: 73.4048%;\">\n<p><strong>Criterio: LCL. CE1.1 – Comprender información relevante en textos audiovisuales</strong></p>\n</td>\n<td colspan=\"2\" width=\"161\" style=\"width: 10.2291%;\">\n<p> Si</p>\n</td>\n<td style=\"width: 10.8681%;\">En proceso</td>\n<td style=\"width: 5.43739%;\">no</td>\n</tr>\n<tr>\n<td width=\"529\" style=\"width: 73.4048%;\">\n<p><em>Comprensión de ideas principales</em> — Identifica correctamente la información esencial del vídeo.</p>\n</td>\n<td colspan=\"2\" width=\"161\" style=\"width: 10.2291%;\">\n<p> </p>\n</td>\n<td style=\"width: 10.8681%;\"><br /></td>\n<td style=\"width: 5.43739%;\"><br /></td>\n</tr>\n<tr>\n<td width=\"529\" style=\"width: 73.4048%;\">\n<p><em>Identificación de detalles relevantes</em> — Responde adecuadamente a preguntas básicas (qué, quién, cuándo).</p>\n</td>\n<td colspan=\"2\" width=\"161\" style=\"width: 10.2291%;\">\n<p> </p>\n</td>\n<td style=\"width: 10.8681%;\"><br /></td>\n<td style=\"width: 5.43739%;\"><br /></td>\n</tr>\n<tr>\n<td colspan=\"3\" width=\"690\" style=\"width: 83.6339%;\">\n<p><strong>Criterio: LCL. CE2.2 – Identificar intención comunicativa y características del texto audiovisual</strong></p>\n</td>\n<td style=\"width: 10.8681%;\"></td>\n<td style=\"width: 5.43739%;\"></td>\n</tr>\n<tr>\n<td width=\"529\" style=\"width: 73.4048%;\">\n<p><em>Identificación del género</em> — Clasifica correctamente cada tráiler según su género.</p>\n</td>\n<td colspan=\"2\" width=\"161\" style=\"width: 10.2291%;\">\n<p> </p>\n</td>\n<td style=\"width: 10.8681%;\"><br /></td>\n<td style=\"width: 5.43739%;\"><br /></td>\n</tr>\n<tr>\n<td width=\"529\" style=\"width: 73.4048%;\">\n<p><em>Uso responsable de herramientas digitales</em> — Usa la herramienta sin borrar ni modificar aportes ajenos.</p>\n</td>\n<td colspan=\"2\" width=\"161\" style=\"width: 10.2291%;\">\n<p> </p>\n</td>\n<td style=\"width: 10.8681%;\"><br /></td>\n<td style=\"width: 5.43739%;\"><br /></td>\n</tr>\n<tr>\n<td colspan=\"3\" width=\"690\" style=\"width: 83.6339%;\">\n<p><strong>Criterio: LCL. CE3.1 – Elaborar textos multimodales con coherencia y corrección</strong></p>\n</td>\n<td style=\"width: 10.8681%;\"><br /></td>\n<td style=\"width: 5.43739%;\"><br /></td>\n</tr>\n<tr>\n<td width=\"529\" style=\"width: 73.4048%;\">\n<p><em>Selección de información relevante</em> — Incluye características esenciales del género.</p>\n</td>\n<td colspan=\"2\" width=\"161\" style=\"width: 10.2291%;\">\n<p> </p>\n</td>\n<td style=\"width: 10.8681%;\"><br /></td>\n<td style=\"width: 5.43739%;\"><br /></td>\n</tr>\n<tr>\n<td width=\"529\" style=\"width: 73.4048%;\">\n<p><em>Organización clara de la infografía</em> — Presenta la información de forma ordenada y comprensible.</p>\n</td>\n<td colspan=\"2\" width=\"161\" style=\"width: 10.2291%;\">\n<p> </p>\n</td>\n<td style=\"width: 10.8681%;\"><br /></td>\n<td style=\"width: 5.43739%;\"><br /></td>\n</tr>\n<tr>\n<td width=\"529\" style=\"width: 73.4048%;\">\n<p><em>Corrección lingüística</em> — Ortografía y redacción adecuadas.</p>\n</td>\n<td colspan=\"2\" width=\"161\" style=\"width: 10.2291%;\">\n<p> </p>\n</td>\n<td style=\"width: 10.8681%;\"><br /></td>\n<td style=\"width: 5.43739%;\"></td>\n</tr>\n<tr>\n<td width=\"529\" style=\"width: 73.4048%;\">\n<p><em>Integración de elementos visuales</em> — Usa imágenes, iconos o colores con sentido didáctico.</p>\n</td>\n<td colspan=\"2\" width=\"161\" style=\"width: 10.2291%;\">\n<p> </p>\n</td>\n<td style=\"width: 10.8681%;\"><br /></td>\n<td style=\"width: 5.43739%;\"><br /></td>\n</tr>\n<tr>\n<td colspan=\"2\" width=\"576\" style=\"width: 73.4087%;\">\n<p><strong>Criterio: LCL. CE1.2 – Interpretar elementos explícitos e implícitos</strong></p>\n</td>\n<td width=\"113\" style=\"width: 10.2252%;\">\n<p> </p>\n</td>\n<td style=\"width: 10.8681%;\"><br /></td>\n<td style=\"width: 5.43739%;\"><br /></td>\n</tr>\n<tr>\n<td width=\"529\" style=\"width: 73.4048%;\">\n<p><em>Identificación de personajes</em> — Reconoce protagonistas y secundarios.</p>\n</td>\n<td colspan=\"2\" width=\"161\" style=\"width: 10.2291%;\">\n<p> </p>\n</td>\n<td style=\"width: 10.8681%;\"><br /></td>\n<td style=\"width: 5.43739%;\"><br /></td>\n</tr>\n<tr>\n<td width=\"529\" style=\"width: 73.4048%;\">\n<p><em>Comprensión de la trama</em> — Resume lo que ocurre en el fragmento.</p>\n</td>\n<td colspan=\"2\" width=\"161\" style=\"width: 10.2291%;\">\n<p> </p>\n</td>\n<td style=\"width: 10.8681%;\"><br /></td>\n<td style=\"width: 5.43739%;\"><br /></td>\n</tr>\n<tr>\n<td width=\"529\" style=\"width: 73.4048%;\">\n<p><em>Análisis de música y ambiente</em> — Explica cómo contribuye al mensaje.</p>\n</td>\n<td colspan=\"2\" width=\"161\" style=\"width: 10.2291%;\">\n<p> </p>\n</td>\n<td style=\"width: 10.8681%;\"><br /></td>\n<td style=\"width: 5.43739%;\"><br /></td>\n</tr>\n<tr>\n<td colspan=\"2\" width=\"576\" style=\"width: 73.4087%;\">\n<p><strong>Criterio: E.A. CE4.1 – Crear producciones audiovisuales sencillas</strong></p>\n</td>\n<td width=\"113\" style=\"width: 10.2252%;\">\n<p> </p>\n</td>\n<td style=\"width: 10.8681%;\"><br /></td>\n<td style=\"width: 5.43739%;\"><br /></td>\n</tr>\n<tr>\n<td width=\"529\" style=\"width: 73.4048%;\">\n<p><em>Guion estructurado</em> — Incluye inicio, desarrollo y final.</p>\n</td>\n<td colspan=\"2\" width=\"161\" style=\"width: 10.2291%;\">\n<p> </p>\n</td>\n<td style=\"width: 10.8681%;\"><br /></td>\n<td style=\"width: 5.43739%;\"><br /></td>\n</tr>\n<tr>\n<td width=\"529\" style=\"width: 73.4048%;\">\n<p><em>Coherencia entre escenas</em> — Las escenas siguen un orden lógico.</p>\n</td>\n<td colspan=\"2\" width=\"161\" style=\"width: 10.2291%;\">\n<p> </p>\n</td>\n<td style=\"width: 10.8681%;\"><br /></td>\n<td style=\"width: 5.43739%;\"><br /></td>\n</tr>\n<tr>\n<td width=\"529\" style=\"width: 73.4048%;\">\n<p><em>Interpretación y expresión</em> — Los alumnos actúan con claridad y adecuación.</p>\n</td>\n<td colspan=\"2\" width=\"161\" style=\"width: 10.2291%;\">\n<p> </p>\n</td>\n<td style=\"width: 10.8681%;\"><br /></td>\n<td style=\"width: 5.43739%;\"><br /></td>\n</tr>\n<tr>\n<td width=\"529\" style=\"width: 73.4048%;\">\n<p><em>Uso básico de la cámara</em> — Encuadres estables y sonido comprensible.</p>\n</td>\n<td colspan=\"2\" width=\"161\" style=\"width: 10.2291%;\">\n<p> </p>\n</td>\n<td style=\"width: 10.8681%;\"><br /></td>\n<td style=\"width: 5.43739%;\"><br /></td>\n</tr>\n<tr>\n<td colspan=\"2\" width=\"576\" style=\"width: 73.4087%;\">\n<p><strong>Criterio: LCL. CE4.2 – Expresar opiniones fundamentadas</strong></p>\n</td>\n<td width=\"113\" style=\"width: 10.2252%;\">\n<p> </p>\n</td>\n<td style=\"width: 10.8681%;\"><br /></td>\n<td style=\"width: 5.43739%;\"><br /></td>\n</tr>\n<tr>\n<td width=\"529\" style=\"width: 73.4048%;\">\n<p><em>Argumentación de la opinión</em> — Explica por qué le gusta o no un corto.</p>\n</td>\n<td colspan=\"2\" width=\"161\" style=\"width: 10.2291%;\">\n<p> </p>\n</td>\n<td style=\"width: 10.8681%;\"><br /></td>\n<td style=\"width: 5.43739%;\"><br /></td>\n</tr>\n<tr>\n<td width=\"529\" style=\"width: 73.4048%;\">\n<p><em>Respeto en la valoración</em> — Acepta opiniones distintas sin burlas.</p>\n</td>\n<td colspan=\"2\" width=\"161\" style=\"width: 10.2291%;\">\n<p> </p>\n</td>\n<td style=\"width: 10.8681%;\"><br /></td>\n<td style=\"width: 5.43739%;\"><br /></td>\n</tr>\n<tr>\n<td width=\"529\" style=\"width: 73.4048%;\">\n<p><em>Uso adecuado del formulario digital</em> — Completa la votación correctamente.</p>\n</td>\n<td colspan=\"2\" width=\"161\" style=\"width: 10.2291%;\">\n<p> </p>\n</td>\n<td style=\"width: 10.8681%;\"><br /></td>\n<td style=\"width: 5.43739%;\"><br /></td>\n</tr>\n</tbody>\n</table>\n<p><br /><strong>Autoevaluación</strong></p>\n<p>Este instrumento permite evaluar tanto el proceso como el producto final, y te ayudará a reflexionar sobre tu propio trabajo.</p>\n<p><br /></p>\n<table border=\"1\" style=\"width: 100.006%;\">\n<tbody>\n<tr>\n<td width=\"425\" style=\"width: 63.3394%;\">\n<p><strong>“He entendido bien todas las fases para crear un cortometraje (guion, grabación, edición).</strong></p>\n</td>\n<td width=\"246\" style=\"width: 36.6899%;\">\n<p><strong>             1         2          3          4          5</strong></p>\n</td>\n</tr>\n<tr>\n<td width=\"425\" style=\"width: 63.3394%;\">\n<p><strong>“¿Qué parte del proceso te ha resultado más difícil y por qué?”</strong></p>\n</td>\n<td width=\"246\" style=\"width: 36.6899%;\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td width=\"425\" style=\"width: 63.3394%;\">\n<p><strong>“Explica algo nuevo que hayas aprendido sobre el lenguaje cinematográfico.”</strong></p>\n</td>\n<td width=\"246\" style=\"width: 36.6899%;\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td width=\"425\" style=\"width: 63.3394%;\">\n<p><strong>“He utilizado imágenes, música y recursos respetando la autoría y las normas del centro.”</strong></p>\n</td>\n<td width=\"246\" style=\"width: 36.6899%;\">\n<p>             1         2          3          4          5</p>\n</td>\n</tr>\n<tr>\n<td width=\"425\" style=\"width: 63.3394%;\">\n<p><strong>“Durante el proyecto he usado los dispositivos de forma…”</strong></p>\n</td>\n<td width=\"246\" style=\"width: 36.6899%;\">\n<p>-  Responsable</p>\n<p>- Adecuada pero mejorable</p>\n<p>- Poco responsable</p>\n<p>-  No lo sé / No estoy seguro</p>\n<p> </p>\n</td>\n</tr>\n<tr>\n<td width=\"425\" style=\"width: 63.3394%;\">\n<p><strong>“He participado activamente en mi grupo y he cumplido mi rol.”</strong></p>\n</td>\n<td width=\"246\" style=\"width: 36.6899%;\">\n<p>             1         2          3          4          5</p>\n</td>\n</tr>\n<tr>\n<td width=\"425\" style=\"width: 63.3394%;\">\n<p><strong>“¿Qué ha funcionado bien en tu grupo y qué mejorarías para la próxima vez?”</strong></p>\n</td>\n<td width=\"246\" style=\"width: 36.6899%;\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td width=\"425\" style=\"width: 63.3394%;\">\n<p><strong>“Estoy satisfecho/a con el resultado final del cortometraje.”</strong></p>\n</td>\n<td width=\"246\" style=\"width: 36.6899%;\">\n<p>             1         2          3          4          5</p>\n</td>\n</tr>\n<tr>\n<td width=\"425\" style=\"width: 63.3394%;\">\n<p><strong>“Si pudieras volver a editar el cortometraje, ¿qué cambiarías?”</strong></p>\n</td>\n<td width=\"246\" style=\"width: 36.6899%;\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td width=\"425\" style=\"width: 63.3394%;\">\n<p><strong>“Siento que he mejorado mi competencia digital gracias a este proyecto.”</strong></p>\n</td>\n<td width=\"246\" style=\"width: 36.6899%;\">\n<p>             1         2          3          4          5</p>\n</td>\n</tr>\n<tr>\n<td width=\"425\" style=\"width: 63.3394%;\">\n<p><strong>“Resume en una frase qué te llevas de este proyecto.”</strong></p>\n</td>\n<td width=\"246\" style=\"width: 36.6899%;\">\n<p> </p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><a href=\"https://docs.google.com/document/d/1fnf7OOwYutK7e9gb8YPl7k9AhjmC43ezsaH9hM9iE7U/edit?usp=sharing\" title=\"instrumentos de evaluación\">https://docs.google.com/document/d/1fnf7OOwYutK7e9gb8YPl7k9AhjmC43ezsaH9hM9iE7U/edit?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780253353854-iavlycy1l</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780253353854-iavlycy1l</odePageId>
+      <odeBlockId>block-1780257354543-0z872t3vf</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780253353854-iavlycy1l</odePageId>
+          <odeBlockId>block-1780257354543-0z872t3vf</odeBlockId>
+          <odeIdeviceId>idevice-1780257354538-7l04u2zth</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta guía recoge los elementos necesarios para implementar la SdA:</p>
+<ul>
+<li>Relación entre tareas y criterios</li>
+<li>Competencias específicas</li>
+<li>Orientaciones metodológicas</li>
+<li>Medidas DUA</li>
+<li>Adaptaciones para la diversidad</li>
+<li>Recomendaciones para el uso responsable de la tecnología</li>
+</ul>
+<p><a href="https://docs.google.com/document/d/1ktbUTMfjceEoJGPW8nCuFMoi01sR5bQV5DBETyt4NFc/edit?usp=sharing" title="SDA Información">https://docs.google.com/document/d/1ktbUTMfjceEoJGPW8nCuFMoi01sR5bQV5DBETyt4NFc/edit?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780257354538-7l04u2zth","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta guía recoge los elementos necesarios para implementar la SdA:</p>\n<ul>\n<li>Relación entre tareas y criterios</li>\n<li>Competencias específicas</li>\n<li>Orientaciones metodológicas</li>\n<li>Medidas DUA</li>\n<li>Adaptaciones para la diversidad</li>\n<li>Recomendaciones para el uso responsable de la tecnología</li>\n</ul>\n<p><a href=\"https://docs.google.com/document/d/1ktbUTMfjceEoJGPW8nCuFMoi01sR5bQV5DBETyt4NFc/edit?usp=sharing\" title=\"SDA Información\">https://docs.google.com/document/d/1ktbUTMfjceEoJGPW8nCuFMoi01sR5bQV5DBETyt4NFc/edit?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780253364585-01f4avzmp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos y descarga</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780253364585-01f4avzmp</odePageId>
+      <odeBlockId>block-1780257419496-vqxyvyil3</odeBlockId>
+      <blockName>Créditos y descarga</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780253364585-01f4avzmp</odePageId>
+          <odeBlockId>block-1780257419496-vqxyvyil3</odeBlockId>
+          <odeIdeviceId>idevice-1780257419492-01kw7vmj7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría</strong>: Mª Del Carmen Gómez Tejada</p>
+<p><strong>Título del recurso: </strong>Viaje al corazón del cine</p>
+<p><strong>Descripción</strong>: Recurso creado con eXeLearning para desarrollar una SdA sobre cine en 6.º de Primaria.</p>
+<p><strong>Licencia</strong>: CC BY-SA 4.0</p>
+<p><strong>Imágenes y recursos</strong>: Incluidos respetando sus licencias.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780257419492-01kw7vmj7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría</strong>: Mª Del Carmen Gómez Tejada</p>\n<p><strong>Título del recurso: </strong>Viaje al corazón del cine</p>\n<p><strong>Descripción</strong>: Recurso creado con eXeLearning para desarrollar una SdA sobre cine en 6.º de Primaria.</p>\n<p><strong>Licencia</strong>: CC BY-SA 4.0</p>\n<p><strong>Imágenes y recursos</strong>: Incluidos respetando sus licencias.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
